@@ -1,0 +1,75 @@
+/* Set background color and font styles */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Add a border and shadow to the header image */
+header img {
+    border: 5px solid #fff;
+    box-shadow: 5px 5px 10px #888;
+    margin-bottom: 20px;
+}
+
+/* Add some margin and padding to the main content */
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 5px solid #ccc;
+    box-shadow: 5px 5px 10px #888;
+}
+
+/* Style the outline text */
+p1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Style the unordered list */
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+/* Style the list items */
+li {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Add a border and shadow to the YouTube video */
+iframe {
+    border: 5px solid #ccc;
+    box-shadow: 5px 5px 10px #888;
+}
+
+/* Style the definition list */
+dl {
+    margin-left: 40px;
+}
+
+/* Style the definition term */
+dt {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+/* Add some margin and padding to the horizontal rule */
+hr {
+    margin: 20px 0;
+    padding: 0;
+    border: none;
+    height: 2px;
+    background-color: #ccc;
+}

@@ -1,0 +1,93 @@
+/* Set background color for body */
+body {
+    background-color: #F8F8F8;
+  }
+  
+  /* Style header */
+  header {
+    background-color: #1C2331;
+    color: #FFF;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style h1 in header */
+  header h1 {
+    margin: 0;
+    font-size: 48px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px #000;
+  }
+  
+  /* Style main */
+  main {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #FFF;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style ul in main */
+  main ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  /* Style li in main */
+  main li {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Style h2 in li */
+  li h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  /* Style img in li */
+  li img {
+    height: 100px;
+    margin: 0 20px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  /* Add hover effect to img in li */
+  li img:hover {
+    transform: scale(1.1);
+  }
+  
+  /* Style textarea */
+  textarea {
+    margin: 20px;
+    width: calc(100% - 40px);
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #F1F1F1;
+    border-radius: 5px;
+  }
+  
+  /* Style input[type=submit] */
+  input[type=submit] {
+    background-color: #1C2331;
+    color: #FFF;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  /* Add hover effect to input[type=submit] */
+  input[type=submit]:hover {
+    background-color: #FFF;
+    color: #1C2331;
+    border: 2px solid #1C2331;
+  }
+  
