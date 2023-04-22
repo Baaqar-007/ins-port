@@ -1,2 +1,2 @@
 # ins-port
-A portfolio by a HTML beginner !! 
+A portfolio by a WebD novice !! 
